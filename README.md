@@ -1,11 +1,11 @@
 # AD_Group_Membership
 Project Title => Active Directory Group Membership Report
-<strong><u>Programmer</u>:</strong>
-     Paul Marcantonio
+<br /><strong><u>Programmer</u>:</strong>
+     <br/>&nbsp;&nbsp;&nbsp;&nbsp;Paul Marcantonio
 <strong><u>Date</u>:</strong>
-     September 12 2018
+     <br/>&nbsp;&nbsp;&nbsp;&nbsp;September 12 2018
 <strong><u>Version</u>:</strong>
-     1.8
+     <br/>&nbsp;&nbsp;&nbsp;&nbsp;1.8
 <strong><u>Objective</u>:</strong>
       <br/>&nbsp;&nbsp;&nbsp;&nbsp; Obtain all groups within Active Directory Sort by Name
 	  <br/>&nbsp;&nbsp;&nbsp;&nbsp; Obtain all users within Active Directory sort by Name
